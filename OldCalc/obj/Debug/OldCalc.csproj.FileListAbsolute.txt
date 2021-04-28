@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\OldCalc\OldCalc\bin\Debug\OldCalc.exe.config
+C:\Users\user\source\repos\OldCalc\OldCalc\bin\Debug\OldCalc.exe
+C:\Users\user\source\repos\OldCalc\OldCalc\bin\Debug\OldCalc.pdb
+C:\Users\user\source\repos\OldCalc\OldCalc\obj\Debug\OldCalc.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OldCalc\OldCalc\obj\Debug\OldCalc.Properties.Resources.resources
+C:\Users\user\source\repos\OldCalc\OldCalc\obj\Debug\OldCalc.csproj.GenerateResource.cache
+C:\Users\user\source\repos\OldCalc\OldCalc\obj\Debug\OldCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OldCalc\OldCalc\obj\Debug\OldCalc.exe
+C:\Users\user\source\repos\OldCalc\OldCalc\obj\Debug\OldCalc.pdb
+C:\Users\user\source\repos\OldCalc\OldCalc\obj\Debug\OldCalc.Calc.resources
